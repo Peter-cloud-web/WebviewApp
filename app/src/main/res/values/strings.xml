@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GlobalNews App</string>
+    <string name="saved_news">saved_news</string>
+    <string name="search_news">search_news</string>
+    <string name="breaking_news">breaking_news</string>
+</resources>
